@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "844361880651",
+    "project_id": "al-mawaid-1ihvq0",
+    "storage_bucket": "al-mawaid-1ihvq0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844361880651:android:c7701cbc1ca4f7929ba9ce",
+        "android_client_info": {
+          "package_name": "com.AlMawaid.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844361880651-9oi74boif643rjrcob7uurl7kdvno6l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSZAAQo7Bn6cVdbo7eohxUvOdi1zHPkig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844361880651-9oi74boif643rjrcob7uurl7kdvno6l2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844361880651-timronengk9pjn1je59511410jl9gpv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AlMawaid.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
